@@ -27,7 +27,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-E0869B?style=for-the-badge&logo=Figma&logoColor=FFFFFF&labelColor=D96882)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-E0869B?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF&labelColor=D96882)&nbsp;
 ![Microsof Office](https://img.shields.io/badge/-microsoft%20office-E0869B?style=for-the-badge&logo=microsoftoffice&logoColor=FFFFFF&labelColor=D96882)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-E0869B?style=for-the-badge&logo=blender&logoColor=FFFFFF&labelColor=D96882)&nbsp;
 
 ## Outros conhecimentos
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-E0869B?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF&labelColor=D96882)&nbsp;
