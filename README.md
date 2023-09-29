@@ -5,8 +5,7 @@
 * Trabalho como Desenvolvedora Web Full Stack;
 * Formada em Design de Jogos Digitais;
 * Contato: luanabia_s@live.com;
-* LinkedIn: https://www.linkedin.com/in/luana-beatriz-dos-santos-4095b8107/
-
+* LinkedIn: https://www.linkedin.com/in/luana-beatriz
 &nbsp;
 
 ## Habilidades
