@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu GitHub. Me chamo Luana Beatriz!
+## Bem-vindo(a) ao meu GitHub. Me chamo Luana Beatriz
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=25&duration=1700&pause=10&color=C9284D&center=false&vCenter=false&width=1000&lines=Full+Stack+Web+Developer;Game+Developer)](https://www.linkedin.com/in/luana-beatriz-dos-santos-4095b8107/)
 
 ## Sobre mim
