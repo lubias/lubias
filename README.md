@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=25&duration=1700&pause=10&color=C9284D&center=false&vCenter=false&width=1000&lines=Full+Stack+Web+Developer;Game+Developer)](https://www.linkedin.com/in/luana-beatriz-dos-santos-4095b8107/)
 
 ## Sobre mim
-* Trabalho como Desenvolvedora Web Full Stack;
-* Formada em Design de Jogos Digitais;
-* Contato: luanabia_s@live.com;
+* Trabalho como Desenvolvedora Web Full Stack
+* Formada em Design de Jogos Digitais
+* Contato: luanabia_s@live.com
 * LinkedIn: https://www.linkedin.com/in/luana-beatriz
 &nbsp;
 
