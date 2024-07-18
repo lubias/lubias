@@ -6,6 +6,7 @@
 * Formada em Design de Jogos Digitais
 * Contato: luanabia_s@live.com
 * LinkedIn: https://www.linkedin.com/in/luana-beatriz
+* Portfólio: https://luanabeatriz.vercel.app/
 &nbsp;
 
 ## Habilidades
