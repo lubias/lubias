@@ -1,15 +1,15 @@
-## Bem-vindo(a) ao meu GitHub. Me chamo Luana Beatriz
+## Welcome to my GitHub. My name is Luana Beatriz
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=25&duration=1700&pause=10&color=C9284D&center=false&vCenter=false&width=1000&lines=Full+Stack+Web+Developer;Game+Developer)](https://www.linkedin.com/in/luana-beatriz-dos-santos-4095b8107/)
 
-## Sobre mim
-* Trabalho como Desenvolvedora Web Full Stack
-* Formada em Design de Jogos Digitais
-* Contato: luanabia_s@live.com
+## About
+* I work as Fullstack Developer
+* I have degree in Game Design
+* Contact: luanabia_s@live.com
 * LinkedIn: https://www.linkedin.com/in/luana-beatriz
-* Portfólio: https://luanabeatriz.vercel.app/
+* Portfolio: https://luanabeatriz.vercel.app/
 &nbsp;
 
-## Habilidades
+## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-D96882?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=C9284D&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-D96882?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=C9284D)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-D96882?style=for-the-badge&logo=Sass&logoColor=FFFFFF&labelColor=C9284D)&nbsp;
@@ -18,7 +18,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-E0869B?style=for-the-badge&logo=PHP&logoColor=FFFFFF&labelColor=D96882)&nbsp;
 
 
-## Ferramentas
+## Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-D96882?style=for-the-badge&logo=VisualStudioCode&logoColor=FFFFFF&labelColor=C9284D)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-D96882?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=C9284D)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-D96882?style=for-the-badge&logo=Unity&logoColor=FFFFFF&labelColor=C9284D)&nbsp;
@@ -28,7 +28,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-E0869B?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF&labelColor=D96882)&nbsp;
 ![Microsof Office](https://img.shields.io/badge/-microsoft%20office-E0869B?style=for-the-badge&logo=microsoftoffice&logoColor=FFFFFF&labelColor=D96882)&nbsp;
 
-## Outros conhecimentos
+## Other Skills
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-E0869B?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF&labelColor=D96882)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-tailwind%20css-E0869B?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=D96882)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-E0869B?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=D96882)&nbsp;
